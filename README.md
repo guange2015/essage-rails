@@ -14,11 +14,14 @@ Install
 Usage
 -----
 
-1. application.js
+1. add essage.js to bottom of your applicaton.html.erb
 
-`//= require essage`
+```
+</body>
+<%= javascript_include_tag "essage" %>
+```
 
-2. application.css
+2. add css to your application.css
 
 `*= require essage`
 
