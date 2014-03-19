@@ -1,4 +1,4 @@
-essage_rails
+essage-rails
 =========
 
 [essage] for rails.
@@ -8,7 +8,7 @@ essage_rails
 Install 
 ----
 
-`gem 'essage_rails'`
+`gem 'essage-rails'`
 
 
 Usage
